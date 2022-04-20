@@ -5,7 +5,6 @@
 - Redux-Saga
 - Styled-components
 - React-hook-forms
-- 
 # Como executar o projeto
 
 ```bash
